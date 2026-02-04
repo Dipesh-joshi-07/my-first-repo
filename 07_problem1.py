@@ -10,5 +10,5 @@ words={
 
 a=input("Enter the word:")
 
-# print(words[a])
-print(words.get(a))
+print(words[a])
+# print(words.get(a))
